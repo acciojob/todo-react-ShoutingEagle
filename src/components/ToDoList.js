@@ -33,7 +33,7 @@ function ToDoList() {
           })
     
           setItems(filterData);
-      }}>Delete</button></li>
+      }}></button></li>
       })}
       
     </ul>
