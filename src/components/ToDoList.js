@@ -19,15 +19,6 @@ function ToDoList() {
     
   }
 
-  // const deleteItems = (index1) => {
-  //     console.log('Hi');
-  //     const filterData = items.filter((element,index) => {
-  //       return index != index1
-  //     } )
-
-  //     console.log(filterData);
-  // }
-
 
   return (
     <>
